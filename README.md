@@ -5,7 +5,7 @@ This program is a sudoku solver, in Java, in command line, using stack stracture
 
 Usage: java Solver file switch
   
-where <file> is the noame of the file containing the puzzle, and switch is a number 1 - 4, depending on what data structure we want to use
+where <file> is the name of the file containing the puzzle, and switch is a number 1 - 4, depending on what data structure we want to use
   
   1: Using stack and ArrayList
   
