@@ -18,4 +18,4 @@ So, for example, if you tupe
   
 it means that you want to solve the Sudoku puzzle provided in file puzzle.txt using queue and ArrayList.
   
-For the puzzles, they values must be separeted with comma. For the empty cells you must provide 0. File puzzle.txt is an example of a valid Sudoku puzzle.  
+For the puzzles, they values must be separeted with a single space. For the empty cells you must provide 0. File puzzle.txt is an example of a valid Sudoku puzzle.  
