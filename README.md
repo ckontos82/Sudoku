@@ -1,7 +1,7 @@
 # Sudoku
 A sudoku solver, written in Java.
 
-This program is a sudoku solver, in Java, in command line, using stack dtracture or queue stracture.
+This program is a sudoku solver, in Java, in command line, using stack stracture or queue stracture.
 
 Usage: java Solver file switch
   
