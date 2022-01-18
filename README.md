@@ -16,7 +16,7 @@ where <file> is the name of the file containing the puzzle, and switch is a numb
   4: Queue and Java LinkedList class
   
   
-So, for example, if you tupe
+So, for example, if you type
   
   java Solver puzzle.txt 2
   
