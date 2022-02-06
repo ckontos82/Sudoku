@@ -7,7 +7,7 @@ Compile: javac Solver.java
 
 Usage: java Solver file switch
   
-where <file> is the name of the file containing the puzzle, and switch is a number 1 - 4, depending on what data structure we want to use
+where "<file>" is the name of the file containing the puzzle, and switch is a number 1 - 4, depending on what data structure we want to use
   
   1: Using stack and ArrayList
   
