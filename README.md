@@ -3,6 +3,8 @@ A sudoku solver, written in Java.
 
 This program is a sudoku solver, in Java, in command line, using stack stracture or queue stracture.
 
+Compile: javac Solver.java
+
 Usage: java Solver file switch
   
 where <file> is the name of the file containing the puzzle, and switch is a number 1 - 4, depending on what data structure we want to use
